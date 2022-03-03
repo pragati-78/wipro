@@ -1,0 +1,2 @@
+# wipro
+Need to post sharepoint Issue - we have 2016 On-premise server and having SP 2013 designer. while creating SP 2013 workflow , designer not showing SharePoint 2013 workflow option in window. To Resolve , browsed one article wherein got one powershell command , pls find readme file here attached wherein I have mentioned the ref. link for powershell command. let me know If i can run that command since it has to be executed on on-prem production server.
